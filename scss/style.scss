@@ -43,7 +43,21 @@ body {
   border-bottom: 1px #ddd solid;
 }
 
+#authors {
+  img {
+    margin-top: -50px;
+  }
 
+  .card:hover {
+    background: $primary;
+    color: #fff;
+  }
+
+  .fab {
+    color: #fff;
+  }
+   
+}
 
 
 
@@ -65,5 +79,6 @@ body {
       margin-bottom: 1rem;
   }
 
+  
 }
 
