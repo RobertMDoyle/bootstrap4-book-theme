@@ -17,7 +17,7 @@ body {
 }
 
 #showcase h1 {
-    padding-top: 35px;
+    padding-top: 45px;
 }
 
 #showcase {
@@ -35,6 +35,12 @@ body {
     height: 100%;
     width: 100%;
   }
+}
+
+.info-header {
+  width: 50%;
+  margin: auto;
+  border-bottom: 1px #ddd solid;
 }
 
 
